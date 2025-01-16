@@ -1,3 +1,7 @@
 this is the dummy content . Some text added using the demo-git repo .
 some other code.
+<<<<<<< HEAD
 trying to creatae a conflict.
+=======
+changes done through a local way
+>>>>>>> 5697eb3 (keeping the local changes)
