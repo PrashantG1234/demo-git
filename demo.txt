@@ -1,1 +1,2 @@
-this is the dummy content . Some text added using the demo-git repo 
+this is the dummy content . Some text added using the demo-git repo .
+some other code.
